@@ -1,0 +1,3 @@
+= Concepts Home
+
+This is the concepts home page, check out <<example.adoc#, the other file>>.
